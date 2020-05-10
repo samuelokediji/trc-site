@@ -19,7 +19,7 @@ export default {
             >RCCG, The Rock City is where God dwells and visit other places</h2>
             <p
               class="text-muted pt-4"
-            >Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.</p>
+            >Where God dwells and visit other places</p>
           </div>
         </div>
       </div>

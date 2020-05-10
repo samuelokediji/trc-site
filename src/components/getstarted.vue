@@ -17,7 +17,7 @@ export default {
             class="section-subtitle font-secondary text-white text-center padding-t-30"
           >Join TRC on our Whatsapp and Social media Platform today.</p>
           <a href="#" class="btn btn-bg-white margin-t-20">
-            Get Started
+            Join Now
             <i class="mdi mdi-arrow-right"></i>
           </a>
         </div>
