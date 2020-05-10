@@ -45,7 +45,7 @@ export default {
     >
       <div class="container">
         <!-- LOGO -->
-        <a class="navbar-brand logo text-uppercase" href="/">
+        <a class="navbar-brand logo text-uppercase" href="/https://res.cloudinary.com/unitech-global-resource/image/upload/v1589126903/arccg_trc_j809jv.jpg">
           <i class="mdi mdi-alien"></i>TRC
         </a>
 
@@ -120,7 +120,7 @@ export default {
           <div class="nav-button ml-auto">
             <ul class="nav navbar-nav navbar-right">
               <li>
-                <button type="button" class="btn btn-custom navbar-btn btn-rounded">Try it Free</button>
+                <button type="button" href="" class="btn btn-custom navbar-btn btn-rounded">Join Us</button>
               </li>
             </ul>
           </div>
@@ -159,51 +159,7 @@ export default {
       </section>
       <!--END HOME-->
 
-      <section class="section-sm bg-light">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-3">
-              <div class="client-images my-3 my-md-0">
-                <img
-                  src="@/assets/images/clients/1.png"
-                  alt="logo-img"
-                  class="mx-auto img-fluid d-block"
-                />
-              </div>
-            </div>
-
-            <div class="col-md-3">
-              <div class="client-images my-3 my-md-0">
-                <img
-                  src="@/assets/images/clients/2.png"
-                  alt="logo-img"
-                  class="mx-auto img-fluid d-block"
-                />
-              </div>
-            </div>
-
-            <div class="col-md-3">
-              <div class="client-images my-3 my-md-0">
-                <img
-                  src="@/assets/images/clients/3.png"
-                  alt="logo-img"
-                  class="mx-auto img-fluid d-block"
-                />
-              </div>
-            </div>
-
-            <div class="col-md-3">
-              <div class="client-images my-3 my-md-0">
-                <img
-                  src="@/assets/images/clients/4.png"
-                  alt="logo-img"
-                  class="mx-auto img-fluid d-block"
-                />
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+    
 
       <Features />
       <Services />
