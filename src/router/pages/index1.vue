@@ -45,8 +45,8 @@ export default {
     >
       <div class="container">
         <!-- LOGO -->
-        <a class="navbar-brand logo text-uppercase" href="/https://res.cloudinary.com/unitech-global-resource/image/upload/v1589126903/arccg_trc_j809jv.jpg">
-          <i class="mdi mdi-alien"></i>TRC
+        <a  href="/https://res.cloudinary.com/unitech-global-resource/image/upload/v1589126903/arccg_trc_j809jv.jpg">
+          <i class="mdi mdi-alien">RCCG TRC </i>
         </a>
 
         <button
