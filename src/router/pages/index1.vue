@@ -106,7 +106,7 @@ export default {
                 class="nav-link"
                 data-scroll-spy-id="blog"
                 href="javascript: void(0);"
-              >Our Blog</a>
+              >Programmes</a>
             </li>
             <li class="nav-item">
               <a

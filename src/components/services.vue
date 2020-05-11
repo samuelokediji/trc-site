@@ -38,7 +38,7 @@ export default {
           <div class="col-lg-4 margin-t-20">
             <div class="services-box">
               <div class="media">
-                <i class="pe-7s-graph1 text-custom"></i>
+                <i class="pe-7s-notebook text-custom"></i>
                 <div class="media-body ml-4">
                   <h4> 1st Service (Business Service)</h4>
                   <p>
@@ -71,7 +71,7 @@ export default {
           <div class="col-lg-4 margin-t-20">
             <div class="services-box">
               <div class="media">
-                <i class="pe-7s-science text-custom"></i>
+                <i class="pe-7s-notebook text-custom"></i>
                 <div class="media-body ml-4">
                   <h4>2nd Service</h4>
                   <p>Sunday <br/>
@@ -86,7 +86,7 @@ export default {
           <div class="col-lg-4 margin-t-20">
             <div class="services-box">
               <div class="media">
-                <i class="pe-7s-news-paper text-custom"></i>
+                <i class="pe-7s-notebook text-custom"></i>
                 <div class="media-body ml-4">
                   <h4>House Fellowship</h4>
                   <p>Sunday <br/>
@@ -101,7 +101,7 @@ export default {
           <div class="col-lg-4 margin-t-20">
             <div class="services-box">
               <div class="media">
-                <i class="pe-7s-plane text-custom"></i>
+                <i class="pe-7s-notebook text-custom"></i>
                 <div class="media-body ml-4">
                 <h4>Potters House</h4>
                   <p>Monday <br/>
@@ -134,7 +134,7 @@ export default {
           <div class="col-lg-4 margin-t-20">
             <div class="services-box">
               <div class="media">
-                <i class="pe-7s-tools text-custom"></i>
+                <i class="pe-7s-notebook text-custom"></i>
                 <div class="media-body ml-4">
                   <h4>Daughters of Zion</h4>
                   <p>Wednesday<br />
@@ -151,7 +151,7 @@ export default {
           <div class="col-lg-4 margin-t-20">
             <div class="services-box">
               <div class="media">
-                <i class="pe-7s-timer text-custom"></i>
+                <i class="pe-7s-notebook text-custom"></i>
                 <div class="media-body ml-4">
                   <h4>Faith Clinic</h4>
                   <p>Thursday

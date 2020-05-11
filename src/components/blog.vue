@@ -13,11 +13,11 @@ export default {
     <div class="container">
       <div class="row">
         <div class="col-lg-8 offset-lg-2">
-          <h1 class="section-title text-center">Latest News</h1>
+          <h1 class="section-title text-center">TRC Events And Programmes</h1>
           <div class="section-title-border margin-t-20"></div>
           <p
             class="section-subtitle text-muted text-center font-secondary padding-t-30"
-          >Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean class at a euismod mus luctus quam.</p>
+          >TRC Programmes and Events</p>
         </div>
       </div>
 
@@ -26,13 +26,13 @@ export default {
           <div class="blog-box margin-t-30">
             <img src="@/assets/images/blog/img-1.jpg" class="img-fluid rounded" alt />
             <div>
-              <h5 class="mt-4 text-muted">UI & UX Design</h5>
+              <h5 class="mt-4 text-muted">Youth Week 2019</h5>
               <h4 class="mt-3">
-                <a href class="blog-title">Doing a cross country road trip</a>
+                <a href class="blog-title">Unlocking Potentials</a>
               </h4>
               <p
                 class="text-muted"
-              >She packed her seven versalia, put her initial into the belt and made herself on the way..</p>
+              >Unlocking Potentials was a Blessed and impactful event</p>
               <div class="mt-3">
                 <a href class="read-btn">
                   Read More
@@ -47,13 +47,13 @@ export default {
           <div class="blog-box margin-t-30">
             <img src="@/assets/images/blog/img-2.jpg" class="img-fluid rounded" alt />
             <div>
-              <h5 class="mt-4 text-muted">Digital Marketing</h5>
+              <h5 class="mt-4 text-muted">Unlocking Potentials </h5>
               <h4 class="mt-3">
                 <a href class="blog-title">New exhibition at our Museum</a>
               </h4>
               <p
                 class="text-muted"
-              >Pityful a rethoric question ran over her cheek, then she continued her way.</p>
+              >Unlocking Potentials was a Blessed and impactful event....</p>
               <div class="mt-3">
                 <a href class="read-btn">
                   Read More
@@ -68,13 +68,13 @@ export default {
           <div class="blog-box margin-t-30">
             <img src="@/assets/images/blog/img-3.jpg" class="img-fluid rounded" alt />
             <div>
-              <h5 class="mt-4 text-muted">Travelling</h5>
+              <h5 class="mt-4 text-muted">TRC Women Summit</h5>
               <h4 class="mt-3">
                 <a href class="blog-title">Why are so many people..</a>
               </h4>
               <p
                 class="text-muted"
-              >Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
+              >Youthweek jnckdwqc;lkwemfckm m;llmcwqlmcq</p>
               <div class="mt-3">
                 <a href class="read-btn">
                   Read More
