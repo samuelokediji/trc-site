@@ -36,7 +36,7 @@ export default {
   <nav class="navbar navbar-expand-lg fixed-top navbar-custom sticky sticky-dark" id="navbar">
     <div class="container">
       <!-- LOGO -->
-      <a class="navbar-brand logo text-uppercase" href="/">
+      <a class="navbar-brand logo text-uppercase" href="https://res.cloudinary.com/unitech-global-resource/image/upload/v1589126903/arccg_trc_j809jv.jpg">
         <i class="">Rock City</i>
       </a>
 
@@ -68,7 +68,7 @@ export default {
               class="nav-link"
               data-scroll-spy-id="features"
               href="javascript: void(0);"
-            >Features</a>
+            >Covid-19 Updates</a>
           </li>
           <li class="nav-item">
             <a
@@ -76,7 +76,7 @@ export default {
               class="nav-link"
               data-scroll-spy-id="services"
               href="javascript: void(0);"
-            >Services</a>
+            >Our Services</a>
           </li>
           <li class="nav-item">
             <a
@@ -84,7 +84,7 @@ export default {
               class="nav-link"
               data-scroll-spy-id="about"
               href="javascript: void(0);"
-            >About</a>
+            >Church Leaders</a>
           </li>
           <li class="nav-item">
             <a

@@ -29,7 +29,7 @@ export default {
                           <i class="mdi mdi-alien"></i>Hiric
                         </a>
                       </h3>
-                      <p class="text-muted">Sign in to continue to Hiric.</p>
+                      <p class="text-muted">Sign in to continue to The RockCity Admin Platfrom.</p>
                     </div>
                     <div class="p-3">
                       <form>

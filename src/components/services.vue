@@ -108,7 +108,8 @@ export default {
                   6:30 PM - 8:00 PM</p>
                   <p
                     class="pt-2 text-muted"
-                  >Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia.</p>
+                  >Potter's house is an interdenominational gathering where youths gather to express what God has deposited in them.
+                     Come the way you are and you are being changed from one level to the other</p>
                 </div>
               </div>
             </div>

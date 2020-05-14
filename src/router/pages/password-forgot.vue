@@ -25,7 +25,7 @@ export default {
                     <div class="text-center mt-3">
                       <h3 class="font-weight-bold">
                         <a href="/" class="text-dark text-uppercase account-pages-logo">
-                          <i class="mdi mdi-alien"></i>Hiric
+                          <i class="mdi mdi-alien"></i>TRC
                         </a>
                       </h3>
                       <p class="text-muted">Reset Password</p>
