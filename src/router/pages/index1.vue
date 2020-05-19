@@ -120,7 +120,7 @@ export default {
           <div class="nav-button ml-auto">
             <ul class="nav navbar-nav navbar-right">
               <li>
-                <button type="button" href="" class="btn btn-custom navbar-btn btn-rounded">Join Us</button>
+                <button type="button" href="https://chat.whatsapp.com/2Io8nkxTHRh3mf1gdGHAeq" class="btn btn-custom navbar-btn btn-rounded">Join Us</button>
               </li>
             </ul>
           </div>
