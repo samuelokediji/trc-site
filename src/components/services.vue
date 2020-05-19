@@ -30,7 +30,7 @@ export default {
                   </p>
                   <p
                     class="pt-2 text-muted"
-                  >Some quick example text to build on the card title and make up the bulk of the card's content. Moltin gives you the platform.</p>
+                  >It is the time where workers come together before the commencement of the service to pray and discuss on how to make our services more efficient according to the will God. Every Sunday from 7:00-7:30am</p>
                 </div>
               </div>
             </div>
@@ -46,7 +46,8 @@ export default {
                   </p>
                   <p
                     class="pt-2 text-muted"
-                  >Credibly brand standards compliant users without extensible services. Anibh euismod tincidunt ut laoreet Ipsum passage.</p>
+                  >If you are thinking of how to start a business or take your business to the next level then 
+                  The Rock City parish Business service is the one for you. You will get knowledge that will turn your business around. </p>
                 </div>
               </div>
             </div>
@@ -61,7 +62,8 @@ export default {
                   8:30 AM - 9:30 AM</p>
                   <p
                     class="pt-2 text-muted"
-                  >Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean necessary regelialia.</p>
+                  >Another  core aspect of the service. As we know that any Sunday School missed is like a treasure thrown into the ocean.
+                  Different topics are discussed during the school and there is usually a sort of assessment at intervals</p>
                 </div>
               </div>
             </div>
@@ -73,12 +75,13 @@ export default {
               <div class="media">
                 <i class="pe-7s-notebook text-custom"></i>
                 <div class="media-body ml-4">
-                  <h4>2nd Service</h4>
+                  <h4>2nd Service (Main Service)</h4>
                   <p>Sunday <br/>
                   9:30 AM - 11:30 AM</p>                 
                    <p
                     class="pt-2 text-muted"
-                  >It is a paradisematic country, in which roasted parts of sentences fly into your mouth leave for the far World.</p>
+                  >It is always a glorious time in God's presence during this time. It is all encompassing from worker's meeting down to the Business service down to Sunday school, etc. 
+                  All these services happens live On Sundays. It's is always very impactful from the praise worship to testimonies to the word they are carefully orchestrated by God.</p>
                 </div>
               </div>
             </div>
@@ -108,8 +111,10 @@ export default {
                   6:30 PM - 8:00 PM</p>
                   <p
                     class="pt-2 text-muted"
-                  >Potter's house is an interdenominational gathering where youths gather to express what God has deposited in them.
-                     Come the way you are and you are being changed from one level to the other</p>
+                  > I it is a platform where youth gather every Monday by 6:30-8:00pm to Study the word of God, pray and worship. 
+
+                  It's a non-denominational gathering where we accept great mind just the way they are that God  will make them according to His will.t is a platform where youth gather every Monday by 6:30-8:00pm to Study the word of God, pray and worship. 
+                 </p>
                 </div>
               </div>
             </div>
@@ -127,7 +132,7 @@ export default {
                   6:00 PM - 7:30 PM</p>
                   <p
                     class="pt-2 text-muted"
-                  >There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</p>
+                  >It a time where we dig deep into the word of God. It is a place where all your questions are answered. Every Tuesday from 6:00-8:00pm</p>
                 </div>
               </div>
             </div>
@@ -144,7 +149,8 @@ export default {
                   </p>
                   <p
                     class="pt-2 text-muted"
-                  >Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.</p>
+                  >it is the time where our mothers and single sisters come together to tarry for their homes, church, Nigeria, and the world at large.
+                   It is every Wednesday from  6:00- 7:00pm.</p>
                 </div>
               </div>
             </div>
@@ -162,7 +168,7 @@ export default {
                   
                   <p
                     class="pt-2 text-muted"
-                  >All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.</p>
+                  Iit is a time where the church come together to pray through. Every Thursday from 6:00 -8:00pm</p>
                 </div>
               </div>
             </div>
