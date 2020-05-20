@@ -96,7 +96,7 @@ export default {
                   5:00 PM - 6:00 PM</p>
                   <p
                     class="pt-2 text-muted"
-                  >Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic.</p>
+                  >It is an extension of the big church. It is the smaller version of the big church where we get to see ourselves in entirety to pray, worship , and study the word of God just with in the neighborhood.</p>
                 </div>
               </div>
             </div>
@@ -110,11 +110,7 @@ export default {
                   <p>Monday <br/>
                   6:30 PM - 8:00 PM</p>
                   <p
-                    class="pt-2 text-muted"
-                  > I it is a platform where youth gather every Monday by 6:30-8:00pm to Study the word of God, pray and worship. 
-
-                  It's a non-denominational gathering where we accept great mind just the way they are that God  will make them according to His will.t is a platform where youth gather every Monday by 6:30-8:00pm to Study the word of God, pray and worship. 
-                 </p>
+                    class="pt-2 text-muted"> It is a platform where youth gather every Monday by 6:30-8:00pm to Study the word of God, pray and worship. It's a non-denominational gathering where we accept great mind just the way they are that God  will make them according to His will.</p>
                 </div>
               </div>
             </div>
@@ -132,7 +128,7 @@ export default {
                   6:00 PM - 7:30 PM</p>
                   <p
                     class="pt-2 text-muted"
-                  >It a time where we dig deep into the word of God. It is a place where all your questions are answered. Every Tuesday from 6:00-8:00pm</p>
+                  >It is a time where we dig deep into the word of God. It is a place where all your questions are answered. Every Tuesday from 6:00-8:00pm</p>
                 </div>
               </div>
             </div>
@@ -149,7 +145,7 @@ export default {
                   </p>
                   <p
                     class="pt-2 text-muted"
-                  >it is the time where our mothers and single sisters come together to tarry for their homes, church, Nigeria, and the world at large.
+                  >It is the time where our mothers and single sisters come together to tarry for their homes, church, Nigeria, and the world at large.
                    It is every Wednesday from  6:00- 7:00pm.</p>
                 </div>
               </div>
@@ -167,8 +163,8 @@ export default {
                   </p>
                   
                   <p
-                    class="pt-2 text-muted"
-                  Iit is a time where the church come together to pray through. Every Thursday from 6:00 -8:00pm</p>
+                    class="pt-2 text-muted">
+                  Ist is a time where the church come together to pray through. Every Thursday from 6:00 -8:00pm</p>
                 </div>
               </div>
             </div>
@@ -181,8 +177,8 @@ export default {
     <!--START WEBSITE-DESCRIPTION-->
     <section
       class="section bg-web-desc"
-      :style="{'background-image': 'url(' + require('@/assets/images/img-1.jpg') + ')', 'background-size': 'cover','background-position': 'center'}"
-    >
+      style="{'background-image': 'url(' + require('@/assets/images/img-1.jpg') + ')', 'background-size': 'cover','background-position': 'center'}" >
+      
       <div class="bg-overlay"></div>
       <div class="container">
         <div class="row">
@@ -198,6 +194,7 @@ export default {
           </div>
         </div>
       </div>
+      
     </section>
     <!--END WEBSITE-DESCRIPTION-->
   </div>

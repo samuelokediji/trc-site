@@ -134,8 +134,7 @@ export default {
         class="section bg-home home-half"
         id="home"
         style="background-size: cover;background-position: center;"
-        :style="{'background': 'url(' + require('@/assets/images/bg-home.jpg') + ')'}"
-      >
+        :style="{'background': 'url(' + require('@/assets/images/bg-home.jpg') + ')'}" >
         <div class="bg-overlay"></div>
         <div class="container">
           <div class="row">
@@ -153,6 +152,7 @@ export default {
                   <youtube video-id="zYdPGCeX-vw" ref="https://youtu.be/zYdPGCeX-vw" width="900" height="500"></youtube>
                 </b-modal>
               </p>
+              
             </div>
           </div>
         </div>
